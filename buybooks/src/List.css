@@ -1,0 +1,8 @@
+.movie-card-wrapper {
+  display: flex;
+  gap: 1.2em;
+  flex-wrap: wrap;
+  margin-top: 1em;
+  justify-content: flex-start;
+  text-align: center;
+}
